@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://peraluz-f0e5f051.zappy5.app/sitemap.xml
+Sitemap: https://example.com/sitemap.xml
